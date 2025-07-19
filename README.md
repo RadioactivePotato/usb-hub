@@ -17,7 +17,7 @@ A 4 Port USB 2.0 Hub
 | PCB | 3D Preview |
 |-----|------------|
 | ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) |
-| | ![3D-Back](assets/3dback.png) |
+| ![3D](assets/2d.png) | ![3D-Back](assets/3dback.png) |
 
 # BOM
 | Qty | Item                               | Notes                             | Cost (USD) | URL                                                                                  |
