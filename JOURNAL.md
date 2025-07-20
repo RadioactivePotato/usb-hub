@@ -26,7 +26,7 @@ So I chose one with only 1 port and used 4 of them.
 
 </details>
 
-# July 20 - PCB Layout (1.5 hours)
+# July 20 (Morning) - PCB Layout (1.5 hours)
 
 <details>
 <summary>Click to expand</summary>
@@ -51,3 +51,21 @@ The traces around the IC is a bit tricky to wire up, but with a few vias it look
 **Time spent this session: 1.5 hours**
 
 </details>
+
+# July 20 (Afternoon) - Case (2 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+I made the case today, the case is printed in 2 parts, the base and the lid, the lid snaps onto the base with these notches
+
+<img width="693" height="408" alt="image" src="https://github.com/user-attachments/assets/673fb447-b487-43c6-8214-48da95a74ab5" />
+
+<img width="668" height="472" alt="image" src="https://github.com/user-attachments/assets/6aeece41-04f8-486f-974f-2b215d8bb3c3" />
+
+The PCB sits on the edges and the base have a bit of space to allow the through-hole componants to sit on.
+
+<img width="718" height="420" alt="image" src="https://github.com/user-attachments/assets/093e4236-819d-4183-8abd-7e23db1a5eee" />
+
+In the front of the case, the USB male connector will be held together by the lid.
+
