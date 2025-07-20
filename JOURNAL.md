@@ -25,3 +25,29 @@ So I chose one with only 1 port and used 4 of them.
 **Time spent this session: 2 hours**
 
 </details>
+
+# July 20 - PCB Layout (1.5 hours)
+
+<details>
+<summary>Click to expand</summary>
+
+Today I made the PCB layout, I wanted to make it as compact as possible so I decided to put 2 usb ports on each side, and to keep it as short as possible to avoid breaking the laptop's USB port. 
+
+I also wanted to be able to hang this on a keychain/lanyard to I made a plated M3 hole at the end of the USB hub.
+
+<img width="504" height="427" alt="image" src="https://github.com/user-attachments/assets/09df987d-c41e-45a5-b9f9-2899011abb65" />
+
+For the 5V and ground traces, I made them to be 0.8mm thick, which should be fine for 2.5A to 3.5A (1oz copper), which is more than enough for a USB hub.
+
+<img width="686" height="485" alt="image" src="https://github.com/user-attachments/assets/841beb0a-e26c-4383-b201-770a80e5c1c5" />
+
+And I routed most of the ground traces on the back.
+
+<img width="484" height="402" alt="image" src="https://github.com/user-attachments/assets/86b80624-f68e-4ad6-9efd-f8d58d7494b3" />
+
+The traces around the IC is a bit tricky to wire up, but with a few vias it looks good now.
+
+
+**Time spent this session: 1.5 hours**
+
+</details>
