@@ -16,8 +16,8 @@ A 4 Port USB 2.0 Hub
 
 | PCB | 3D Preview | Case |
 |-----|------------|------|
-| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Case1](assets/cad1.png)
-| ![3D](assets/2d.png) | ![3D-Back](assets/3dback.png) | ![Case2](assets/cad2.png) |
+| ![PCB](assets/pcb.png) | ![3D-Front](assets/3dfront.png) | ![Case1](assets/case1.png)
+| ![3D](assets/2d.png) | ![3D-Back](assets/3dback.png) | ![Case2](assets/case2.png) |
 
 # BOM
 
