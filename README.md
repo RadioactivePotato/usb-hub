@@ -21,7 +21,7 @@ A 4 Port USB 2.0 Hub
 
 # BOM
 
-<img width="1276" height="814" alt="image" src="https://github.com/user-attachments/assets/8c3eb59b-762f-4e4c-91c9-299b288fcb32" />
+<img width="1276" height="814" alt="image" src="https://github.com/user-attachments/assets/a2ac8114-30cb-4b5e-b30a-189e1e62df1e" />
 
 # PCB: 1.5USD
 
