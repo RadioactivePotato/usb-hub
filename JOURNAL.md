@@ -7,9 +7,6 @@ created_at: "2025-07-19"
 
 # July 19 - Schematic and Parts (2 hour)
 
-<details>
-<summary>Click to expand</summary>
-
 I designed the schematic today, the IC I am using is the [CoreChips SL2.1A](https://lcsc.com/product-detail/USB-HUB-Controllers_CoreChips-SL2-1A_C192893.html), it supports up to 4 extra USB connection.
 
 I also added a diode at 5V input from the USB-A male connector to prevent backpower.
@@ -24,12 +21,7 @@ So I chose one with only 1 port and used 4 of them.
 
 **Time spent this session: 2 hours**
 
-</details>
-
 # July 20 (Morning) - PCB Layout (1.5 hours)
-
-<details>
-<summary>Click to expand</summary>
 
 Today I made the PCB layout, I wanted to make it as compact as possible so I decided to put 2 usb ports on each side, and to keep it as short as possible to avoid breaking the laptop's USB port. 
 
@@ -47,15 +39,9 @@ And I routed most of the ground traces on the back.
 
 The traces around the IC is a bit tricky to wire up, but with a few vias it looks good now.
 
-
 **Time spent this session: 1.5 hours**
 
-</details>
-
 # July 20 (Afternoon) - Case (2 hours)
-
-<details>
-<summary>Click to expand</summary>
 
 I made the case today, the case is printed in 2 parts, the base and the lid, the lid snaps onto the base with these notches
 
