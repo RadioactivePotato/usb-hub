@@ -1,7 +1,7 @@
 # usb-hub
 
 # About
-A 4 Port USB 2.0 Hub
+This is a 4 port USB 2.0 hub, it has a reverse voltage diode in case the computer sends too much voltage and also has decoupling capacitors to protect the other USB ports. 
 
 # Images
 
